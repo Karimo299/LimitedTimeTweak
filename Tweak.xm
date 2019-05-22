@@ -31,7 +31,7 @@
 
 
 //Checks if the date is before the due date
-//Note: creating a file is not neccesary but it is the to prevent it from being bypassed
+//Note: creating a file is not neccesary but it is the to improve the chances from being bypassed
 //If you are going to create and check for the file i would recommend naming it something suttle
 //and putting it in a random folder with alot of files
 //you can also create multiple file in diffrent folder and check for all of them to increase the chanses of it not being found
